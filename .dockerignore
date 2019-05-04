@@ -1,0 +1,10 @@
+.gitignore
+.idea
+README.md
+__pycache__
+_config.yml
+config.py
+*.iml
+tweet-screnshot.png
+venv
+

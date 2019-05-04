@@ -1,6 +1,6 @@
 
 # database, last tweet timestamp
-conf_storage = "/tmp/.air_tweet"
+conf_storage = "/var/air_tweets/air_tweet"
 
 # the sensor ids
 conf_particle_sensor_id = 7561
